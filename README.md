@@ -1,6 +1,6 @@
 # Crack-Detection
 
-## <p>Using salemier filter for potential crack filtering</p>
+## <p>Using salemier filter for potential crack dection</p>
 ### <p>From top to bottom: Original image, Salemier filter with kernal size 5, after Otsu binarization, filter kernal size=3,5,7,9 pixels</p>
 
 ![orignin](https://github.com/koufongso/Crack-Evolutoin/blob/master/origin.png)
